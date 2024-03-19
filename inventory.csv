@@ -1,0 +1,12 @@
+id,description,stock,sold_during_last_month
+I01,Airfryer,30,7
+I02,Blender,3,20
+I03,Kettle,40,25
+I04,Microwave,2,10
+I05,Coffeemaker,20,12
+I06,Toaster,10,18
+I07,Heater,1,8
+I08,Airconditioner,11,5
+I09,Fridge,15,5
+I10,Ricecooker,17,12
+I11,Knifeset,21,7

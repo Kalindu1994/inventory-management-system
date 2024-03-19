@@ -1,0 +1,12 @@
+id,description,product_performance_during_last_month,stock_threshold
+I01,Airfryer,low,Over-stocked
+I02,Blender,medium,Need to restock
+I03,Kettle,high,Over-stocked
+I04,Microwave,medium,Need to restock
+I05,Coffeemaker,medium,Over-stocked
+I06,Toaster,medium,Need to restock
+I07,Heater,low,Need to restock
+I08,Airconditioner,low,Over-stocked
+I09,Fridge,low,Over-stocked
+I10,Ricecooker,medium,optimally stocked
+I11,Knifeset,low,Over-stocked
